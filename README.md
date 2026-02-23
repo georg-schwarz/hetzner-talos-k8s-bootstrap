@@ -24,8 +24,9 @@ Deploy a multi-node Talos Linux Kubernetes cluster on Hetzner Cloud using Pulumi
 1. Install [talosctl](https://docs.siderolabs.com/talos/latest/getting-started/talosctl)
 2. Install [kubectl](https://kubernetes.io/docs/tasks/tools/)
 3. Install [Pulumi](https://www.pulumi.com/docs/get-started/download-install/)
-4. Create a Pulumi Cloud account (free)
-5. Create a Hetzner Cloud account (state Feb 2026: there are referral codes to get 20€ free credit)
+4. Install [uv](https://docs.astral.sh/uv/getting-started/installation/) (Python package and project manager)
+5. Create a Pulumi Cloud account (free)
+6. Create a Hetzner Cloud account (state Feb 2026: there are referral codes to get 20€ free credit)
 
 ## Setup
 
